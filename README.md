@@ -2,8 +2,6 @@
 
 **A Free and Open Library of NoCopyrightSounds (NCS) Tracks for Creators**  
 
-![NCS-OpenBeats Banner](https://via.placeholder.com/1000x300?text=NCS+OpenBeats)
-
 ## 📢 About  
 NCS-OpenBeats is a collection of high-quality NoCopyrightSounds (NCS) tracks, free to use for content creators, filmmakers, and YouTubers. This library is categorized for easy access to the right music for any project.
 
